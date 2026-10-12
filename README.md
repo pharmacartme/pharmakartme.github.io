@@ -1,2 +1,2 @@
-# Pharmakartme.github.io
+# pharmakartme.github.io
 Pharma Kart Me
